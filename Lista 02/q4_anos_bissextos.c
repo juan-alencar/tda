@@ -26,4 +26,5 @@ int main(){ //faça um programa que receba um ano e informe se é bissexto ou n�
         printf("O ano %d nao e bissexto.", ano); 
         break;
     }
+    return 0;
 }

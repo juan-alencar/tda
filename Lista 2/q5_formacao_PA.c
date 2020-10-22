@@ -34,4 +34,6 @@ int main(){ //faça um programa que receba do usuário a quantidade de elementos
 		cont++;
 	}
 	printf("\b\b}");  //organizando dentro de uma chave
+	
+	return 0;
 }
